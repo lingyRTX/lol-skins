@@ -3,7 +3,7 @@ Database for LSkin app.
 Discord: https://discord.gg/HqXBUzYRyz
 
 
-@everyone 
+
 **All those interested in helping with app development:** 
 You can use this key for testing and bug hunting.
 - `E3DC-5E93-2E92-DD25`

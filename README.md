@@ -11,6 +11,9 @@ You can use this key for testing and bug hunting.
   - Anyone who contributed to development or bug hunting will get free access to LSkins in the future.
   - Download: https://discord.com/channels/1414611283398889555/1414634671404220467
 
+  Updated key
+  
+
 [**Report bugs here:**](https://discord.com/channels/1414611283398889555/1416688406909423647)
 
 [**Improvement suggestions here:**  ](https://discord.com/channels/1414611283398889555/1415084343130587186)

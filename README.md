@@ -5,4 +5,11 @@ New key for those who want to help with using the application, valid for 50 user
 Discord: https://discord.gg/HqXBUzYRyz
 
 Added new Skins (Author: @cresiana)
-<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/37059878-82f2-47c3-9a37-fe80aad60eb7" />
+
+### Changelog: 27.09.2025
+* Added detection selected champion in League of Legends
+* Added localization in 2 languages
+  - English (en-GB)
+  - Russian (ru-RU
+ 
+  <img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/fa189bc5-8dda-4dac-98eb-5075734ca241" />

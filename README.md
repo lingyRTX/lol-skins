@@ -1,4 +1,4 @@
-New key for those who want to help with using the application, valid for 40 users. 
+New key for those who want to help with using the application, valid for 50 users. 
 
 `17F3-9459-6972-5E52` (50 users)
 

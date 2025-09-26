@@ -4,7 +4,7 @@ New key for those who want to help with using the application, valid for 50 user
 
 Discord: https://discord.gg/HqXBUzYRyz
 
-Added new Skins (Author: @cresiana)
+Added Arcane Skins (Author: @cresiana)
 
 ### Changelog: 27.09.2025
 * Added detection selected champion in League of Legends

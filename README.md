@@ -1,6 +1,6 @@
 New key for those who want to help with using the application, valid for 50 users. 
 
-`17F3-9459-6972-5E52` (22/50 users)
+`17F3-9459-6972-5E52` (26/50 users `27.09.2025: 02:10`)
 
 Discord: https://discord.gg/HqXBUzYRyz
 

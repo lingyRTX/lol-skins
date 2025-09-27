@@ -169,8 +169,8 @@ L Skins is a third-party application and is not affiliated with, endorsed by, or
 <div align="center">
   <p>Made with ❤️ for the League of Legends community</p>
   <p>
-    <a href="https://github.com/your-username/l-skins">⭐ Star this project</a> •
-    <a href="https://github.com/your-username/l-skins/issues">🐛 Report Bug</a> •
-    <a href="https://github.com/your-username/l-skins/discussions">💬 Discussions</a>
+    <a href="https://github.com/lingyRTX/lol-skins">⭐ Star this project</a> •
+    <a href="https://github.com/lingyRTX/lol-skins/issues">🐛 Report Bug</a> •
+    <a href="https://github.com/lingyRTX/lol-skins/discussions">💬 Discussions</a>
   </p>
 </div>

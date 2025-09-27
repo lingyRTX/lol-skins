@@ -171,6 +171,6 @@ L Skins is a third-party application and is not affiliated with, endorsed by, or
   <p>
     <a href="https://github.com/lingyRTX/lol-skins">⭐ Star this project</a> •
     <a href="https://github.com/lingyRTX/lol-skins/issues">🐛 Report Bug</a> •
-    <a href="https://github.com/lingyRTX/lol-skins/discussions">💬 Discussions</a>
+    <a href="https://discord.gg/HqXBUzYRyz">💬 Discussions</a>
   </p>
 </div>

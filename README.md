@@ -10,7 +10,7 @@ A powerful desktop application for League of Legends skin management and customi
 <img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/fa189bc5-8dda-4dac-98eb-5075734ca241" />
 
 
-`17F3-9459-6972-5E52` (26/50 users `27.09.2025: 02:10`)
+`1577-5B03-3DC3-091B` (0/100 users `The key is valid until  November 1st.`)
 
 Discord: https://discord.gg/HqXBUzYRyz
 
